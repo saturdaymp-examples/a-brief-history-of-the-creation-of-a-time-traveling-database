@@ -1,6 +1,8 @@
 # A Brief History of the Creation of a Time Traveling Database
 A lighting talk I gave at the [Edmonton PASS](https://edmpass.pass.org/) [Speaker Idol Contest](https://www.meetup.com/EDMPASS/events/257714563/) about creating a temporal database many years ago.
 
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/saturdaymp?label=Sponsors&logo=githubsponsors&labelColor=3C444C)](https://github.com/sponsors/saturdaymp)
+
 # Quickstart
 You'll need SQL Server installed to run the demos.  If you have [Docker](https://www.docker.com/) installed there is a Docker Compose file to get you up and running quickly:
 
